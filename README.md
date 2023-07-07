@@ -7,8 +7,10 @@ This porject is created with Spring MVC framework where there are two modules fo
 **Experience from the Project**
 
 • Able to create ,design and implement the servlet and JSP application
+
 • Learned how  connect the database using Servlet/JSP and Spring's JDBC 
-• Learned how Spring boots worked
+
+
 
 **Tools and Platforms**
 
