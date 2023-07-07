@@ -1,4 +1,4 @@
-![image](https://github.com/racoma123/ABCCommunityPortal/assets/137740654/0de177e1-303f-4ee6-8f25-e48f60a524d6)![image](https://github.com/racoma123/ABCCommunityPortal/assets/137740654/12afb32b-8bf9-4ce1-8a13-3efa8db19971)# ABCCommunityPortal
+# ABCCommunityPortal
 
 This projectis to  design, develop, implement community portal website using SpringFramework.
 
